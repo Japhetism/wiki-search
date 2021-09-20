@@ -21,9 +21,9 @@ You will also see any lint errors in the console.
 
 ## Information
 
-In this project, the main component to the assessment solution is WikiSearch.
+In this project, the main component to the assessment solution is [WikiSearch] (http://localhost:6006/?path=/story/wikipedia-wikisearch--search).
 This component depends on other components such as;
-Card
-Error
-Loader
-Search
+* Card
+* Error
+* Loader
+* Search
