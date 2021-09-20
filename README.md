@@ -23,7 +23,7 @@ You will also see any lint errors in the console.
 
 In this project, the main component to the assessment solution is [WikiSearch](http://localhost:6006/?path=/story/wikipedia-wikisearch--search).\
 [WikiSearch](http://localhost:6006/?path=/story/wikipedia-wikisearch--search) depends on other components such as;
-* Card
-* Error
-* Loader
-* Search
+* [Card](http://localhost:6006/?path=/story/wikipedia-card--query-card)
+* [Error](http://localhost:6006/?path=/story/wikipedia-error--error-content)
+* [Loader](http://localhost:6006/?path=/story/wikipedia-loader--custom-loader)
+* [Search](http://localhost:6006/?path=/story/wikipedia-search--search-input)
